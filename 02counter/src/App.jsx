@@ -12,7 +12,7 @@ function App() {
     setCounter(counter)
     //console.log("value Added",counter); this is not required, but koi problem bhi nhi hai 
   }
-
+// khud se kr na hai: is me aage add sirf 20 tk jana chahea aur remove o ke niche nhi jana chahea
   const removeValue = () =>{
     setCounter(counter - 1)
   }
